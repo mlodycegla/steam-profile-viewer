@@ -9,6 +9,8 @@ It displays information about someones steam profile
 
 It's pretty broken so not every steam profile will work
 
+And an important thing to mention is that it may not work at all because of CORS, to fix this simply download a browser extension that bypasses CORS and then it will work properly
+
 How to use?
 ---
 First of all you will need a steamID.

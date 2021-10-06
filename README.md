@@ -1,4 +1,4 @@
-# 1.-steam-profile-viewer
+# steam-profile-viewer
 
 First commit!
 ---
